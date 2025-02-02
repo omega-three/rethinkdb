@@ -1,5 +1,5 @@
 package = "reql-lua"
-version = "1.0"
+version = "1.0-0"
 
 source = {
 	url = "git+https://github.com/omega-three/rethinkdb"
