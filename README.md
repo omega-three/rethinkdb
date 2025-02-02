@@ -1,4 +1,4 @@
-#reql-lua
+## reql-lua
 
 A Lua driver for RethinkDB.
 
